@@ -1,0 +1,4 @@
+AI-Helper/
+.venv/
+__pycache__/
+*.pyc
